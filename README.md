@@ -1,0 +1,3 @@
+# INTRODUÇÃO
+
+O presente projeto consiste na elaboração de uma análise de cohort inicial, com o objetivo de aprimorar minha compreensão sobre os métodos analíticos, contribuindo assim para meu desenvolvimento como cientista de dados. Os dados utilizados foram extraídos de um conjunto disponível no Kaggle, proporcionando um contexto prático e enriquecedor para a exploração analítica. O link para a base de dados está acessível em: https://www.kaggle.com/datasets/jihyeseo/online-retail-data-set-from-uci-ml-repo. Este projeto representa não apenas um exercício analítico, mas também uma valiosa oportunidade de ampliar meu repertório no vasto campo da ciência de dados.
